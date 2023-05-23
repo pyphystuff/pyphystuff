@@ -1,4 +1,5 @@
-### Hi there 👋! [giphy](https://github.com/pyphystuff/pyphystuff/assets/43761612/f74a1057-08ba-4040-b8d2-8ee15002b4bd)
+
+![giphy](https://github.com/pyphystuff/pyphystuff/assets/43761612/33212df4-56a6-4552-9391-416b8737b803)
 
 ### 
 

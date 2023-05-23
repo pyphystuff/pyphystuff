@@ -1,6 +1,6 @@
-### Hi there 👋!
-### [giphy](https://github.com/pyphystuff/pyphystuff/assets/43761612/f74a1057-08ba-4040-b8d2-8ee15002b4bd)
+### Hi there 👋! [giphy](https://github.com/pyphystuff/pyphystuff/assets/43761612/f74a1057-08ba-4040-b8d2-8ee15002b4bd)
 
+### 
 
 <!--
 **pyphystuff/pyphystuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@
 ---
 
 ### :man_technologist: About Me :
-A short bio:
+
 I studied Physics and earned an M.Sc. in Theoretical Chemistry from the State University of Campinas (Unicamp, Campinas-SP, Brazil). I am currently finishing my Ph.D. at the same university, focusing on molecular dynamics simulations of enzymes, specifically Glycosyl Hydrolases. My research includes studying basic dynamics, denaturation processes, free energy, binding interactions, and networks. I am proficient in Python and have a good knowledge of Julia, although I don't use it as much. Additionally, I am a baseball fan, interested in baseball analytics, and a member of the AI SABR committee.
 
 

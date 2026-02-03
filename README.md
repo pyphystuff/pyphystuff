@@ -4,6 +4,9 @@
 </div>
 
 ---
+
+
+<!--
 # Hi, I'm Eduardo 👋
 
 I'm a Python-focused developer with a strong scientific background, interested in building **clean, reproducible, data-driven projects**.
@@ -52,10 +55,8 @@ Python · pandas · scikit-learn · Jupyter · RDKit · Git · Linux
 
 ## 📫 Contact
 - LinkedIn: *(add link)*
-- Email: *(add email or remove)*
+-->
 
-
-<!--
  ### :man_technologist: About Me :
 
 I studied Physics and earned an M.Sc. and PhD in Theoretical Chemistry from the State University of Campinas (Unicamp, Campinas-SP, Brazil). My Ph.D. was focused on molecular dynamics simulations of enzymes, specifically Glycosyl Hydrolases. My research includes studying basic dynamics, denaturation processes, free energy, binding interactions, and networks. I am proficient in Python and have a good knowledge of Julia, although I don't use it as much. Additionally, I am a baseball fan, interested in baseball analytic.
@@ -70,7 +71,6 @@ Here are some quick facts about me:
 - ⚡ Fun facts: I am an amateur runner (5km and 10 Km) , baseball fun (Tiburones de La Guaira🦈 and Pittsburg Pirates 🏴‍☠️) and I like to draw
 
 
--->
 
 
 

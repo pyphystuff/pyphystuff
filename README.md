@@ -1,77 +1,62 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>Sinkler Eduardo Tormet Gonzalez, PhD</h1>
+  <p><strong>Physicist | Computational Chemist | Data Scientist</strong></p>
+  
+  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
+### 🧬 About Me
 
-<!--
-# Hi, I'm Eduardo 👋
+I am a **Ph.D. in Theoretical Chemistry** from the **University of Campinas (UNICAMP)** with a strong background in **Computational Physics**. My expertise lies at the intersection of molecular simulations, high-performance computing, and machine learning applied to biological systems.
 
-I'm a Python-focused developer with a strong scientific background, interested in building **clean, reproducible, data-driven projects**.
-
----
-
-## 🚀 Current Projects (Industry-focused)
-
-### 💊 Excipients & Formulation Intelligence (ongoing)
-I'm currently working on projects focused on **pharmaceutical excipients**, combining **data analysis + cheminformatics + ML** to support formulation decisions.
-
-**Key directions:**
-- Building structured datasets of excipients (properties, roles, compatibility signals)
-- Feature engineering from molecular descriptors (RDKit-style)
-- Predictive models for formulation-relevant outcomes (classification/regression)
-- Reproducible pipelines for cleaning, validation, and reporting
-
-**Stack:**
-Python · pandas · scikit-learn · Jupyter · RDKit · Git · Linux
+I specialize in decoding the complexity of **enzymatic systems (Glycosyl Hydrolases)** through Molecular Dynamics (MD), free energy landscapes, and network analysis. Currently, I am bridging the gap between theoretical chemistry and industry by applying **Machine Learning** to pharmaceutical formulation and excipient intelligence.
 
 ---
 
-## 📌 Featured Repositories
-⭐ *(Pin 4–6 repos here on GitHub so recruiters see them first)*  
-- `project_1` — short description  
-- `project_2` — short description  
-- `project_3` — short description  
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming** | Python (Expert), Bash, Julia, R, C |
+| **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch |
+| **Simulation & HPC** | AMBER, NAMD, GROMACS, CUDA, SLURM |
+| **Cheminformatics** | RDKit, VMD, PyMOL |
+| **DevOps & Tools** | Git, Docker, Linux (Ubuntu/CentOS), LaTeX |
 
 ---
 
-## 🧰 Skills
-- **Programming:** Python, Bash, Git
-- **Data:** pandas, NumPy, Matplotlib
-- **ML:** scikit-learn (baseline models, evaluation)
-- **Scientific computing:** simulations, numerical analysis
-- **Workflow:** reproducibility, automation (CI/CD in progress)
+### 🚀 Key Focus Areas
+
+* **Pharmaceutical Intelligence:** Building predictive models for drug-excipient compatibility and formulation optimization.
+* **Enzyme Engineering:** Using MD simulations to study denaturation, binding interactions, and catalytic mechanisms.
+* **HPC Optimization:** Implementing GPU-accelerated workflows and parallel computing for large-scale molecular systems.
+* **Sports Analytics:** Applying data science to Baseball metrics (Sabermetrics).
 
 ---
 
-## 🎯 What I'm improving right now
-- Writing more tests (pytest)
-- Better project structure (`src/`, `tests/`, `pyproject.toml`)
-- Documentation and examples for every repo
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pyphystuff&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyphystuff&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
-## 📫 Contact
-- LinkedIn: *(add link)*
--->
+### ⚡ Fun Facts & Interests
+- 🏃 **Amateur Runner:** Consistently hitting 5km and 10km goals.
+- ⚾ **Baseball Enthusiast:** Sabermetrics fan. Proud supporter of *Tiburones de La Guaira* 🦈 and *Pittsburgh Pirates* 🏴‍☠️.
+- 🎨 **Creative Side:** I enjoy drawing as a way to balance my analytical work.
 
- ### :man_technologist: About Me :
+---
 
-I studied Physics and earned an M.Sc. and PhD in Theoretical Chemistry from the State University of Campinas (Unicamp, Campinas-SP, Brazil). My Ph.D. was focused on molecular dynamics simulations of enzymes, specifically Glycosyl Hydrolases. My research includes studying basic dynamics, denaturation processes, free energy, binding interactions, and networks. I am proficient in Python and have a good knowledge of Julia, although I don't use it as much. Additionally, I am a baseball fan, interested in baseball analytic.
-
-
-
-Here are some quick facts about me:
-
-- 🔭 I’m currently working on molecular dynamics of enzymes,python,  machine learning and data science 
-- 👯 I’m looking to collaborate on machine learning,julia, data science and molecular dynamics
-- 💬 Ask me about enzymes and math
-- ⚡ Fun facts: I am an amateur runner (5km and 10 Km) , baseball fun (Tiburones de La Guaira🦈 and Pittsburg Pirates 🏴‍☠️) and I like to draw
-
-
-
+<p align="center">
+  <em>"Using physics and data to solve complex molecular puzzles."</em>
+</p>
 
 
 

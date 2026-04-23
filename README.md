@@ -21,8 +21,8 @@ I specialize in decoding the complexity of **enzymatic systems (Glycosyl Hydrola
 | Category | Technologies |
 | :--- | :--- |
 | **Programming** | Python (Expert), Bash, Julia, R, C |
-| **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch |
-| **Simulation & HPC** | AMBER, NAMD, GROMACS, CUDA, SLURM |
+| **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras|
+| **Simulation & HPC** | AMBER, NAMD, CUDA, SLURM |
 | **Cheminformatics** | RDKit, VMD, PyMOL |
 | **DevOps & Tools** | Git, Docker, Linux (Ubuntu/CentOS), LaTeX |
 
